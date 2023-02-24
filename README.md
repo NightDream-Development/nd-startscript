@@ -8,4 +8,4 @@ We start from just fxmanifest wich we do not like making every time so we use th
 
 
 
-#TO START WORKING DELET THE delete me.TXT FILES IN shared/client/server
+# TO START WORKING DELET THE delete me.TXT FILES IN shared/client/server
